@@ -1,0 +1,590 @@
+2018-08-29 13:21:12,518 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:21:13,087 [pool-3-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:21:13,221 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:21:13,615 [main] INFO  com.csr.receive.main.StartUp:49 - getresult-->>[UserBean{id=2, username='test', password='null', account=0.0}, UserBean{id=3, username='我', password='null', account=0.0}]
+2018-08-29 13:21:13,799 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:21:17,036 [pool-3-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:21:21,035 [pool-3-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:25:42,239 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:25:42,667 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:25:42,755 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:25:42,933 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:25:46,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:25:50,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:25:54,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:25:58,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:02,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:06,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:10,631 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:15,756 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:26:16,301 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:16,480 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:26:16,917 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:26:17,174 [main] INFO  com.csr.receive.main.StartUp:49 - getresult-->>[UserBean{id=2, username='test', password='null', account=0.0}, UserBean{id=3, username='我', password='null', account=0.0}]
+2018-08-29 13:26:20,298 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:26:24,299 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:25,024 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:31:25,479 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:25,644 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:31:25,892 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:31:29,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:33,457 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:37,457 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:41,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:45,458 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:49,458 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:53,457 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:31:57,458 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:01,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:05,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:09,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:13,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:17,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:21,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:25,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:29,458 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:33,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:37,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:41,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:45,458 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:49,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:53,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:32:57,458 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:01,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:05,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:09,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:13,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:17,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:21,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:25,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:29,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:33,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:37,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:41,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:45,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:49,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:53,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:33:57,459 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:01,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:05,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:09,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:13,459 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:17,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:21,463 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:25,461 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:29,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:33,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:37,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:41,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:45,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:49,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:53,461 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:34:57,460 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:01,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:05,460 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:09,461 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:13,461 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:19,910 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:35:20,416 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:20,562 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:35:21,101 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:35:24,415 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:28,416 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:32,416 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:36,416 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:40,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:44,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:48,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:52,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:35:56,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:00,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:04,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:08,416 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:12,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:16,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:20,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:24,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:28,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:32,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:36,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:40,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:44,416 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:48,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:52,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:36:56,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:00,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:04,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:08,417 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:12,418 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:16,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:20,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:24,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:28,418 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:32,418 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:36,417 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:42,695 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:37:43,105 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:43,263 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:37:43,459 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:37:47,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:51,053 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:55,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:37:59,052 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:03,052 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:07,052 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:11,052 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:15,053 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:19,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:23,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:27,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:31,053 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:35,053 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:39,053 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:43,053 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:47,052 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:52,259 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:38:52,860 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:38:53,005 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:38:53,544 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:38:56,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:00,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:04,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:08,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:12,837 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:16,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:20,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:24,836 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:28,844 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:32,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:36,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:40,836 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:44,836 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:48,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:52,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:39:56,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:00,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:04,836 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:08,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:12,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:16,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:20,837 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:24,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:28,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:32,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:36,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:40,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:44,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:48,837 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:52,837 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:40:56,837 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:00,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:04,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:08,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:12,837 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:16,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:20,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:24,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:28,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:32,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:36,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:40,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:44,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:48,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:52,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:41:56,840 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:00,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:04,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:08,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:12,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:16,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:20,838 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:24,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:28,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:32,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:36,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:40,838 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:44,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:48,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:52,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:42:56,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:00,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:04,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:08,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:12,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:16,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:20,840 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:24,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:28,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:32,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:36,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:40,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:44,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:48,839 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:52,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:43:56,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:00,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:04,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:08,839 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:12,840 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:16,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:20,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:24,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:28,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:32,840 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:36,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:40,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:44,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:48,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:52,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:44:56,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:00,840 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:04,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:08,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:12,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:16,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:20,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:24,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:28,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:32,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:36,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:40,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:44,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:48,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:52,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:45:56,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:00,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:04,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:08,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:12,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:16,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:20,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:24,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:28,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:32,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:36,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:40,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:44,841 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:48,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:52,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:46:56,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:00,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:04,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:08,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:12,842 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:16,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:20,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:24,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:28,843 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:32,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:36,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:40,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:44,843 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:48,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:52,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:47:56,842 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:00,843 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:04,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:08,843 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:12,843 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:16,844 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:20,843 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:42,781 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:48:43,329 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:43,515 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:48:44,178 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:48:47,329 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:51,330 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:55,330 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:48:59,329 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:03,330 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:07,330 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:11,712 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:49:12,238 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:12,363 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:49:12,833 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:49:16,193 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:20,192 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:24,192 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:28,193 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:32,193 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:36,193 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:42,536 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:49:43,042 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:43,310 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:49:43,817 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:49:43,825 [main] INFO  com.csr.receive.main.StartUp:49 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0}, UserBean{id=3, username='我', password='123a', account=52.0}]
+2018-08-29 13:49:47,027 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:49:51,027 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:50:21,413 [main] INFO  com.csr.receive.main.StartUp:38 - fffffff
+2018-08-29 13:50:21,848 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:50:21,982 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:50:22,350 [main] INFO  com.csr.receive.main.StartUp:49 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0, createtime=2018-08-29 00:00:00.0}, UserBean{id=3, username='我', password='123a', account=52.0, createtime=2018-07-17 00:00:00.0}]
+2018-08-29 13:50:22,422 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:50:25,841 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:54:39,036 [main] INFO  com.csr.receive.main.StartUp:35 - fffffff
+2018-08-29 13:54:39,577 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:54:39,674 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:54:39,856 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:54:43,482 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:55:30,069 [main] INFO  com.csr.receive.main.StartUp:35 - fffffff
+2018-08-29 13:55:30,483 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:55:30,634 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:55:31,332 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:55:34,479 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:55:38,478 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:55:42,478 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:56:14,250 [main] INFO  com.csr.receive.main.StartUp:35 - fffffff
+2018-08-29 13:56:14,775 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 13:56:14,967 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 13:56:15,469 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 13:56:18,733 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:00:30,794 [main] INFO  com.csr.receive.main.StartUp:35 - fffffff
+2018-08-29 14:00:31,381 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:00:31,583 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 14:00:31,966 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 14:00:32,087 [main] INFO  com.csr.receive.main.StartUp:47 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0, createtime=2018-08-29 00:00:00.0}, UserBean{id=3, username='我', password='123a', account=52.0, createtime=2018-07-17 00:00:00.0}, UserBean{id=4, username='我dfa长度', password='123dfa', account=522.0, createtime=2018-08-29 14:00:31.0}]
+2018-08-29 14:00:35,376 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:00:39,375 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:00:43,375 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:41:48,995 [main] INFO  com.csr.receive.main.StartUp:35 - fffffff
+2018-08-29 14:41:49,497 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:41:49,819 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 14:41:50,099 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 14:41:50,176 [main] INFO  com.csr.receive.main.StartUp:47 - getresult-->>[]
+2018-08-29 14:41:53,471 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:41:57,471 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:42:01,471 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:42:05,470 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:44:47,698 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 14:44:48,153 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:44:48,285 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 14:44:48,503 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 14:44:49,755 [main] INFO  com.csr.receive.main.StartUp:50 - getresult-->>[UserBean{id=2, username='test', password='null', account=0.0, createtime=null}]
+2018-08-29 14:44:52,144 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:44:56,144 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:45:00,144 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:45:04,145 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:45:08,144 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:45:12,144 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:31,321 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 14:54:31,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:31,954 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 14:54:32,177 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 14:54:32,348 [main] INFO  com.csr.receive.main.StartUp:50 - getresult-->>[UserBean{id=2, username='test', password='null', account=0.0, createtime=null}]
+2018-08-29 14:54:35,760 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:39,760 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:43,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:47,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:51,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:55,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:54:59,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:03,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:07,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:11,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:15,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:19,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:23,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:27,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:31,761 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:35,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:39,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:43,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:47,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:51,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:55,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:55:59,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:03,761 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:07,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:11,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:15,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:19,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:23,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:27,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:31,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:35,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:39,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:43,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:47,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:51,762 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:55,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:56:59,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:03,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:07,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:11,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:15,762 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:19,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:23,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:27,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:31,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:35,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:39,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:43,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:47,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:51,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:55,764 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:57:59,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:03,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:07,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:11,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:15,765 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:19,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:23,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:27,763 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:31,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:35,764 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:39,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:43,763 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:47,764 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:51,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:55,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:58:59,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:03,765 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:07,775 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:11,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:15,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:19,764 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:23,765 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:27,764 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:31,764 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:40,333 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 14:59:40,890 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:40,982 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 14:59:41,385 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 14:59:44,821 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:48,822 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:52,821 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 14:59:56,823 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:00,822 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:04,822 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:08,822 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:12,821 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:16,823 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:20,823 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:24,822 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:28,823 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:32,823 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:36,823 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:40,823 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:44,822 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:48,823 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:52,824 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:00:56,823 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:00,823 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:08,805 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 15:01:09,295 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:09,441 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 15:01:09,942 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 15:01:13,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:17,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:21,289 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:25,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:29,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:33,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:37,290 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:41,292 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:45,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:49,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:53,290 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:01:57,290 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:01,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:05,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:09,290 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:13,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:17,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:21,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:25,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:29,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:33,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:37,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:41,291 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:45,292 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:49,291 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:53,600 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 15:02:53,998 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:02:54,092 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 15:02:54,340 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 15:02:54,889 [main] INFO  com.csr.receive.main.StartUp:50 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0, createtime=1535472000000}]
+2018-08-29 15:02:57,946 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:03:01,944 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:03:06,010 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:03:12,265 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 15:03:12,683 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 15:03:12,771 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 15:03:12,979 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 15:03:13,297 [main] INFO  com.csr.receive.main.StartUp:50 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0, createtime=2018-08-29 00:00:00.0}]
+2018-08-29 16:24:38,744 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 16:24:39,297 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:24:39,397 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 16:24:39,965 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 16:24:43,233 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:24:47,232 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:06,582 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 16:28:06,902 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:07,024 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 16:28:07,213 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 16:28:10,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:14,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:18,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:22,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:26,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:30,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:34,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:38,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:42,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:46,896 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:50,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:54,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:28:58,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:02,896 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:06,900 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:10,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:14,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:18,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:22,896 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:26,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:30,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:34,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:38,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:42,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:46,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:50,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:54,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:29:58,898 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:02,898 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:06,897 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:10,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:14,897 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:18,898 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:22,898 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:26,898 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:32,636 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 16:30:33,117 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:33,247 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 16:30:33,674 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 16:30:37,102 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:41,101 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:45,101 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:49,101 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:53,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:30:57,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:01,101 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:05,101 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:09,102 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:13,102 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:17,102 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:21,102 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:25,101 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:29,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:33,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:37,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:41,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:45,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:49,102 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:55,810 [main] INFO  com.csr.receive.main.StartUp:36 - fffffff
+2018-08-29 16:31:56,303 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:31:56,451 [Thread-0] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpNettyServer:49 - [UDP server start]
+2018-08-29 16:31:56,739 [main] INFO  com.csr.receive.main.StartUp:52 - getresult-->>[UserBean{id=2, username='test', password='sdf', account=4545.0, createtime=2018-08-13 00:00:00.0}]
+2018-08-29 16:31:56,913 [nioEventLoopGroup-2-1] INFO  com.csr.receive.service.nettyudp.Udpnetty.UdpServerHandler:24 - [UDP server on connect]
+2018-08-29 16:32:00,290 [pool-2-thread-1] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:32:04,289 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2
+2018-08-29 16:32:08,288 [pool-2-thread-2] INFO  com.csr.receive.service.task.Task2:14 - execute Task2

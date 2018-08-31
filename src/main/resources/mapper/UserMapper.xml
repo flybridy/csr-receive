@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.csr.receive.mapper.UserMapper">
+    <resultMap type="com.csr.receive.model.UserBean" id="userMap">
+        <id property="id" column="id" javaType="java.lang.Integer"></id>
+        <result property="username" column="username" javaType="java.lang.String"></result>
+        <result property="password" column="password" javaType="java.lang.String"></result>
+        <result property="account" column="account" javaType="java.lang.Double"></result>
+    </resultMap>
+    <resultMap type="com.csr.receive.model.UserBean" id="userMap2">
+        <id property="id" column="id" javaType="java.lang.Integer"></id>
+        <result property="username" column="username" javaType="java.lang.String"></result>
+    </resultMap>
+
+    <resultMap type="com.csr.receive.model.UserBean" id="userMap3">
+        <id property="id" column="id" javaType="java.lang.Integer"></id>
+        <result property="username" column="username" javaType="java.lang.String"></result>
+        <result property="password" column="password" javaType="java.lang.String"></result>
+        <result property="account" column="account" javaType="java.lang.Double"></result>
+        <result property="createtime" column="createtime" javaType="java.sql.Timestamp"></result>
+    </resultMap>
+    <insert id="insertUser" useGeneratedKeys="true" parameterType="com.csr.receive.model.UserBean">
+       insert into t_user (username,password,account,createtime) values (#{username},#{password},#{account},#{createtime,jdbcType=TIMESTAMP})
+     </insert>
+
+
+    <update id="updateUser">
+            update t_user set username=#{username},password=#{password},account=#{account} where id=#{id}
+       </update>
+
+    <delete id="deleteUser" parameterType="int">
+      delete from t_user where id=#{id}
+        </delete>
+
+    <select id="selectUserById" parameterType="int" resultMap="userMap">
+        select * from t_user where id=#{id}
+        </select>
+
+    <select id="selectAllUser" resultMap="userMap">
+         select id,username,password,account from t_user
+        </select>
+    <select id="selectUser" resultMap="userMap3" parameterType="java.util.HashMap">
+        select id,username,password,account,createtime from t_user where username=#{username}
+        <if test="startTime!=null and createtime!='' ">
+            and createtime>= DATE_FORMAT(#{startTime},'%Y-%m-%d %H:%i:%s')
+        </if>
+        <if test="endTime!=null and createtime!=''">
+            and createtime&lt;DATE_FORMAT(#{endTime},'%Y-%m-%d %H:%i:%s')
+        </if>
+    </select>
+    <select id="selectTimeUser" resultMap="userMap3">
+        select id,username,password,account,createtime from t_user
+    </select>
+</mapper>
+
+

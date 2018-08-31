@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.csr.receive.mapper.LabDataMapper">
+    <resultMap type="com.csr.receive.model.LabDataBean" id="DataBeani">
+        <id property="id" column="id" javaType="java.lang.Integer"></id>
+        <result property="INPUTPROBENUMBER" column="INPUTPROBENUMBER" javaType="java.lang.String"></result>
+        <result property="DISPROBENUMBER" column="DISPROBENUMBER" javaType="java.lang.String"></result>
+        <result property="CREATEDON" column="CREATEDON" javaType="java.util.Date"></result>
+        <result property="DISTEMPERATURE" column="DISTEMPERATURE" javaType="java.lang.Double"></result>
+        <result property="DISHUMIDITY" column="DISHUMIDITY" javaType="java.lang.Double"></result>
+        <result property="record_time" column="record_time" javaType="java.util.Date"></result>
+    </resultMap>
+    <insert id="insertLabData0701" useGeneratedKeys="true" parameterType="com.csr.receive.model.LabDataBean">
+       insert into lab_fdisplayparamter0701 (INPUTPROBENUMBER,DISPROBENUMBER,CREATEDON,DISTEMPERATURE,DISHUMIDITY,record_time)
+        values (#{INPUTPROBENUMBER},#{DISPROBENUMBER},#{CREATEDON,jdbcType=TIMESTAMP},#{DISTEMPERATURE},#{DISHUMIDITY},now())
+     </insert>
+
+    <update id="updateLabData0701" parameterType="">
+            update lab_fdisplayparamter0701 set DISPROBENUMBER=#{username},password=#{password},account=#{account} where id=#{id}
+        </update>
+
+        <delete id="deleteUser" parameterType="int">
+      delete from t_user where id=#{id}
+        </delete>
+
+
+        <select id="selectAllLabData0701" resultMap="DataBeani">
+         select * from lab_fdisplayparamter0701
+        </select>
+</mapper>
+
+
